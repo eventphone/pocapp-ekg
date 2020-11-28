@@ -1,5 +1,6 @@
 #!/usr/bin/env tclsh8.6
 #
+# SPDX-FileCopyrightText: 2020 Bernhard Dick <bernie@eventphone.de>
 # SPDX-FileCopyrightText: 2020 Martin Stoffers
 # SPDX-License-Identifier: BSD-3-Clause
 #
