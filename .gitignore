@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: 2020 Martin Stoffers
+# SPDX-License-Identifier: BSD-3-Clause
+
+
+# reuse app from https://reuse.software/
+.reuse/
+
+
